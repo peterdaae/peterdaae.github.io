@@ -41,6 +41,14 @@ a {
   transition: background-color 0.3s, color 0.3s;
 }
 
+p{
+  color: #555;
+  font-size: 1.1rem;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
 a:hover {
   background-color: #333;
   color: #fff;
